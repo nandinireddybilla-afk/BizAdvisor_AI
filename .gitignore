@@ -1,0 +1,5 @@
+.env
+chat_history.db
+bizadvisor/
+__pycache__/
+*.pyc
